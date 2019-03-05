@@ -1,0 +1,57 @@
+.CalculatorContainer {
+  margin-top: 10%;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  display: flex;
+  border-style: solid;
+  width: 250px;
+}
+
+.CalculatorFirstRow {
+  margin-bottom: 5%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.CalculatorSecondRow {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.CalculatorThirdRow {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.CalculatorFourthRow {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.CalculatorFifthRow {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.CalculatorSixthRow {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.CalculatorCol {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+#first-row {
+  text-align: right;
+}
+
